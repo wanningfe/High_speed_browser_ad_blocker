@@ -1,0 +1,2 @@
+# High_speed_browser_blocker
+屏蔽高速浏览器下载广告
